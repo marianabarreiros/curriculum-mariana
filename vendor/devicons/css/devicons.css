@@ -785,3 +785,7 @@
 .devicons-vim:before {
   content: "\e6c5";
 }
+
+.devicons-csharp:before {
+  content: "\e6c6";
+}
