@@ -789,3 +789,7 @@
 .devicons-csharp:before {
   content: "\e6c6";
 }
+
+.devicon-gitlab-plain{
+  color: red;
+}
