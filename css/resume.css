@@ -150,3 +150,9 @@ a:hover, a:focus, a:active {
 
   text-transform: capitalize;
 }
+
+#e-mail {
+
+  color: #bd5d38  ;
+  text-transform: none;
+}
