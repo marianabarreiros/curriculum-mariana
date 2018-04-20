@@ -13,3 +13,15 @@
 .devicon-gitlab-plain:hover{
 	color: #bd5d38 !important;
 }
+
+.descricao-tec {
+
+  text-transform: capitalize;
+  padding-left: 10px
+}
+
+#e-mail {
+
+  color: #bd5d38  ;
+  text-transform: none;
+}
